@@ -4,7 +4,7 @@ A web-based rental property platform designed to simplify property discovery, re
 
 ## 🌐 Live Demo
 
-**[Visit RentPro](https://rentpro-teal.vercel.app/)**
+**[Visit RentPro](https://property-dekho-frontend.onrender.com/)**
 
 ## 📌 Project Overview
 
